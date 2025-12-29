@@ -25,7 +25,7 @@ Need Help or have a question? [Discord Chat Community](https://discord.gg/2wXQW3
 Product Page: [Here](https://www.cerelog.com/eeg_researchers.html)
 
 
-Product Usage Guide : [Here](https://www.cerelog.com/eeg_researchers_guide.html)
+Product Usage Guide : [Here](https://www.cerelog.com/eeg_researchers_guide.html) and **See Instructions file above for device usage**
 
 Video Product Overview: [Here](youtube.com/watch?v=6XKdIbguI00&embeds_referring_euri=https%3A%2F%2Fwww.cerelog.com%2F)
 
