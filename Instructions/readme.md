@@ -16,6 +16,9 @@ or email simon@cerelog.com
 
 # 🔌 Part 1: Connecting Hardware & Running a Session
 
+
+<img src="connecting_photo.jpeg" alt="Connecting Photo" width="1900">
+
 ## 1. Hardware Assembly
 Connect your EEG cap cable(s) to the required touch-proof adapter(s), then plug the adapter(s) into the electrode headers on the Cerelog board.
 
