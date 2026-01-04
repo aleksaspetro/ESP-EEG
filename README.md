@@ -32,7 +32,7 @@ Video Product Overview: [Here](youtube.com/watch?v=6XKdIbguI00&embeds_referring_
 
 
 
-<img src="connecting_photo.jpeg" alt="Connecting Photo" width="450">
+<img src="connecting_photo.jpeg" alt="Connecting Photo" width="900">
 
 
 # Why Cerelog's ESP-EEG? 
