@@ -32,6 +32,9 @@ Video Product Overview: [Here](youtube.com/watch?v=6XKdIbguI00&embeds_referring_
 
 
 
+<img src="connecting_photo.jpeg" alt="Connecting Photo" width="450">
+
+
 # Why Cerelog's ESP-EEG? 
 
 ## Easy to use Software compatability:
