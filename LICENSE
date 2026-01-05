@@ -17,9 +17,9 @@ This repository contains two distinct components with different licenses:
 
 --------------------------------------------------------------------------
 
-2. HARDWARE SCHEMATICS & DOCUMENTATION
+ 2. HARDWARE SCHEMATICS & DOCUMENTATION
    Path: /hardware
-   License: Creative Commons Attribution-ShareAlike 4.0 (CC-BY-SA 4.0)
+   License: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 (CC-BY-NC-SA 4.0)
 
    You are free to:
    * Share — copy and redistribute the material in any medium or format
@@ -27,6 +27,7 @@ This repository contains two distinct components with different licenses:
    
    Under the following terms:
    * Attribution — You must give appropriate credit to Cerelog Inc.
+   * NonCommercial — You may not use the material for commercial purposes.
    * ShareAlike — If you remix, transform, or build upon the material, you must
      distribute your contributions under the same license as the original.
 
