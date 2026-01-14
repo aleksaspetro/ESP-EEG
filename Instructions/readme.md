@@ -36,7 +36,7 @@ For accurate BCI data collection, you **must** use two ear clip electrodes with 
 Connect the board to your computer via USB-C. Wait for green LED to turn on. 
 
 ⚠️ Don't see the LED turn on? 
-Sometimes you may need to turn on and off PCB for computer to detect new board. If you do not see this Ready LED turn on after 10 seconds you need to powercycle with switch. Also, if the LIPO battery is dead you will need to charge it with USB-C. After plugging in a new battery you must also turn on and off the power switch.
+Sometimes you may need to turn on and off PCB for computer to detect new board. If you do not see this status LED turn on after 10 seconds you need to powercycle with switch. Also, if the LIPO battery is dead you will need to charge it with USB-C. After plugging in a new battery you must also turn on and off the power switch.
 
 **Don't Like USB?:  WiFI Support (Under Dev)**
 [More info](https://github.com/Cerelog-ESP-EEG/WiFi_Support)
