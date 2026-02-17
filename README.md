@@ -2,6 +2,8 @@
 
 <img src="product_EEG.png" alt="Cerelog Board" width="450">
 
+3D Print your own case [Here](https://github.com/Cerelog-ESP-EEG/3D-print-Case/tree/main)
+
 ##  High-precision 8-channel biosensing board designed for EEG, EMG, ECG, and Brain Computer Interface (BCI) research applications
 
 www.cerelog.com   and   **Product Page (Assembled Units Available)**: [Here](https://www.cerelog.com/eeg_researchers.html) 
