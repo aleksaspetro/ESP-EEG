@@ -1,6 +1,6 @@
 # 3D-Printed Case
 
-STL Files located here 
+STL Files located [here](https://github.com/Cerelog-ESP-EEG/3D-print-Case/tree/main)
 
 ## Preview
 
