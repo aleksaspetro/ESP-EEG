@@ -2,7 +2,7 @@
 
 <img src="product_EEG.png" alt="Cerelog Board" width="450">
 
-3D Print your own case [Here](https://github.com/Cerelog-ESP-EEG/3D-print-Case/tree/main)
+
 
 ##  High-precision 8-channel biosensing board designed for EEG, EMG, ECG, and Brain Computer Interface (BCI) research applications
 
@@ -31,8 +31,7 @@ Product Usage Guide : [Here](https://www.cerelog.com/eeg_researchers_guide.html)
 
 Video Product Overview: [Here](youtube.com/watch?v=6XKdIbguI00&embeds_referring_euri=https%3A%2F%2Fwww.cerelog.com%2F)
 
-
-
+3D Print your own case [Here](https://github.com/Cerelog-ESP-EEG/3D-print-Case/tree/main)
 
 <img src="connecting_photo.jpeg" alt="Connecting Photo" width="1900">
 
@@ -72,6 +71,15 @@ Note: Test script to quickly view plot and aquire data -> Run 'Shared_brainflow-
 
 
 [More info](https://github.com/Cerelog-ESP-EEG/WiFi_Support)            
+
+
+
+
+
+
+
+
+
 
 
 ## 📉 Superior Noise Reduction (Closed-Loop Bias)
