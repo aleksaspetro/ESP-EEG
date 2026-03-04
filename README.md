@@ -2,7 +2,8 @@
 
 <img src="product_EEG.png" alt="Cerelog Board" width="450">
 
-
+## Demo of EMG
+[Control robotic hand with EMG](https://github.com/Cerelog-ESP-EEG/Robotic_Hand_EMG_-ESP-EEG_Cerelog-)
 
 
 
@@ -11,15 +12,13 @@
 www.cerelog.com   and   **Product Page (Assembled Units Available)**: [Here](https://www.cerelog.com/eeg_researchers.html) 
 
 
-
-## Demo of EMG
-[Control robotic hand with EMG](https://github.com/Cerelog-ESP-EEG/Robotic_Hand_EMG_-ESP-EEG_Cerelog-)
-
-
-
 Need Help or have a question? [Discord Chat Community](https://discord.gg/2wXQW3Uy4d)
 
 Open Source Firmware, Software & Schematic included on this page
+
+
+
+
 
 # Helpful Links
 
