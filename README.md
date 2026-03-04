@@ -2,8 +2,7 @@
 
 <img src="product_EEG.png" alt="Cerelog Board" width="450">
 
-## Demo of EMG
-[Control robotic hand with EMG]https://github.com/Cerelog-ESP-EEG/Robotic_Hand_EMG_-ESP-EEG_Cerelog-
+
 
 
 
@@ -13,7 +12,8 @@ www.cerelog.com   and   **Product Page (Assembled Units Available)**: [Here](htt
 
 
 
-
+## Demo of EMG
+[Control robotic hand with EMG](https://github.com/Cerelog-ESP-EEG/Robotic_Hand_EMG_-ESP-EEG_Cerelog-)
 
 
 
