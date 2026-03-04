@@ -2,8 +2,7 @@
 
 <img src="product_EEG.png" alt="Cerelog Board" width="450">
 
-## Demo of EMG
-[Control robotic hand with EMG](https://github.com/Cerelog-ESP-EEG/Robotic_Hand_EMG_-ESP-EEG_Cerelog-)
+
 
 
 
@@ -65,6 +64,16 @@ and
 Custom instance of Brainflow Repo: [Here](https://github.com/shakimiansky/Shared_brainflow-cerelog) for collecting data with the device. 
 
 Note: Test script to quickly view plot and aquire data -> Run 'Shared_brainflow-cerelog/python_package/cerelog_tests/filtered_plot.py' from in above repo. (Must download and run with full Brainflow instance to use)
+
+## Demo of EMG
+# ESP-EEG Robotic Hand Controller 🤖
+
+A demonstration of using the EMG capability of the ESP-EEG bio-signal sensor to control a robotic hand.
+
+[![ESP-EEG Robotic Hand Demo](https://img.youtube.com/vi/xjNg0UMrPlc/maxresdefault.jpg)](https://youtube.com/shorts/xjNg0UMrPlc?si=EgGIO7fhjGFAiRqD)  
+*(Click the image above to watch the demo on YouTube)*
+
+[Github code for EMG robotic hand control](https://github.com/Cerelog-ESP-EEG/Robotic_Hand_EMG_-ESP-EEG_Cerelog-)
 
 
 ## NEW: WiFI Support - (Beta Testing) - For Use With OpenBCI GUI Fork / LSL
