@@ -2,6 +2,9 @@
 
 <img src="product_EEG.png" alt="Cerelog Board" width="450">
 
+## Demo of EMG
+[Control robotic hand with EMG]https://github.com/Cerelog-ESP-EEG/Robotic_Hand_EMG_-ESP-EEG_Cerelog-
+
 
 
 ##  High-precision 8-channel biosensing board designed for EEG, EMG, ECG, and Brain Computer Interface (BCI) research applications
