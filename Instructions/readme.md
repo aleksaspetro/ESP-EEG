@@ -68,6 +68,17 @@ https://github.com/Cerelog-ESP-EEG/How-to-use-OpenBCI-GUI-fork
 
 To get the best performance from the ESP EEG, we recommend using our custom BrainFlow instance. This guide covers installation, the theory behind our data stream, and provides a production-grade script for real-time filtering and plotting.
 
+**2 Quick Videos Using Cerelog ESP-EEG with Brainflow:**
+
+Use these videos if you get stuck with the GUIDE BELOW. Make sure to read the instructions below though, as the videos don't have all of the setup command scripts.
+
+[ESP-EEG with Brainflow](https://www.youtube.com/watch?v=hLSeSTvoRPI)  
+
+[General Product usage Overview Video](youtube.com/watch?v=6XKdIbguI00&embeds_referring_euri=https%3A%2F%2Fwww.cerelog.com%2F)
+
+**Link above links to youtube videos**
+
+
 ## Step 1: Installation (Custom BrainFlow Instance)
 
 The ESP EEG requires a specific version of BrainFlow to handle its high-fidelity data packets correctly.
