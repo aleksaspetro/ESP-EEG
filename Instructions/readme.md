@@ -169,7 +169,7 @@ This links the package to the source files, so you don't need to reinstall the p
 ## Step 5: Dependencies
 Ensure you have the required Python packages installed:
 ```bash
-pip install numpy matplotlib
+pip install numpy matplotlib pyserial plotly dash scikit-learn "setuptools<82"
 # Note: brainflow must be installed/referenced from the custom repo above
 ```
 
