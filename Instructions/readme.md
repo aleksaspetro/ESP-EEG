@@ -33,6 +33,9 @@ For accurate BCI data collection, you **must** use two ear clip electrodes with 
 4. Pick the channel you want data from, ex ch1 and connect a probe from CH1+ to your head via an electrode
 
 ## 4. Connect and Stream
+
+[Note: If you can't connect the computer to the device, read this helpful [troubleshooting guide:](https://github.com/Cerelog-ESP-EEG/Troubleshooting_connection/tree/main )]
+
 Connect the board to your computer via USB-C. Wait for green LED to turn on. 
 
 ⚠️ Don't see the LED turn on? 
