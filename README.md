@@ -46,7 +46,7 @@ Video Product Overview: [Here](youtube.com/watch?v=6XKdIbguI00&embeds_referring_
 
 <img src="IMG_3756.jpg" alt="Demo" width="500">
 
-
+## USING the custom OpenBCI GUI: 
 Setup instructions and LSL Custom Python connection script :  [Here](https://github.com/Cerelog-ESP-EEG/How-to-use-OpenBCI-GUI-fork)
 
 
