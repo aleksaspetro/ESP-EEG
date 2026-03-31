@@ -70,7 +70,7 @@ Note: Test script to quickly view plot and aquire data -> Run 'Shared_brainflow-
 
 **2 Quick Videos Using Cerelog ESP-EEG with Brainflow:**
 
-A demonstration of using the EMG capability of the ESP-EEG bio-signal sensor to control a robotic hand.
+Make sure to read the above linked guide as it is very detailed. If you get stuck with setup, checkout these videos below:
 
 [ESP-EEG with Brainflow](https://www.youtube.com/watch?v=hLSeSTvoRPI)  
 
