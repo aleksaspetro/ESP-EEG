@@ -68,6 +68,15 @@ Custom instance of Brainflow Repo: [Here](https://github.com/shakimiansky/Shared
 
 Note: Test script to quickly view plot and aquire data -> Run 'Shared_brainflow-cerelog/python_package/cerelog_tests/filtered_plot.py' from in above repo. (Must download and run with full Brainflow instance to use)
 
+# 2 Quick Videos Using Cerelog ESP-EEG with Brainflow:
+
+A demonstration of using the EMG capability of the ESP-EEG bio-signal sensor to control a robotic hand.
+
+[![ESP-EEG with Brainflow](https://img.youtube.com/vi/hLSeSTvoRPI/maxresdefault.jpg)](https://www.youtube.com/watch?v=hLSeSTvoRPI)  
+*(Click the image above to watch the demo on YouTube)*
+
+
+
 ## Demo of EMG
 # ESP-EEG Robotic Hand Controller 🤖
 
