@@ -234,11 +234,11 @@ uint32_t get_baud_rate_from_config(uint8_t config_val);
 typedef struct Deez { int add; int reg_val; } regVal_pair;
 const int size_reg_ls = 24;
 static const regVal_pair ADS1299_REGISTER_LS[size_reg_ls] = {
-  {0x01, 0b10110110}, {0x02, 0b11010000}, {0x03, 0b11101100}, {0x04, 0}, {-2, -2},
+  {0x01, 0b10110110}, {0x02, 0b11010000}, {0x03, 0b11101100}, {0x04, 0b00000010}, {-2, -2}, // LOFF: AC lead-off at 31.25 Hz, 6nA, 95% threshold
   {0x05, 0b01100000}, {0x06, 0b01100000}, {0x07, 0b01100000}, {0x08, 0b01100000},
   {0x09, 0b01100000}, {0x0A, 0b01100000}, {0x0B, 0b01100000}, {0x0C, 0b01100000},
-  {0x0D, 0b11111111}, {0x0E, 0b00000000}, {0x0F, 0}, {0x10, 0}, {0x11, 0}, {-2, -2},
-  {0x15, 0b00100000}, {0x16, 0}, {0x17, 0}
+  {0x0D, 0b11111111}, {0x0E, 0b00000000}, {0x0F, 0b00000111}, {0x10, 0}, {0x11, 0}, {-2, -2}, // LOFF_SENSP: lead-off sense on channels 1-3 (P-inputs)
+  {0x15, 0b00100000}, {0x16, 0}, {0x17, 0b00000010} // CONFIG4: lead-off comparator ENABLED
 };
 
 
