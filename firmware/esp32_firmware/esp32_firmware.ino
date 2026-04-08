@@ -1,6 +1,11 @@
 #include <Arduino.h>
 #include <SPI.h>
 
+// Fix for ESP32 Arduino Core 3.x — VSPI constant was removed
+#ifndef VSPI
+#define VSPI 3
+#endif
+
 
 
 
